@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到thunderwei之家
 thunderwei博客
 You can use the [editor on GitHub](https://github.com/thunderwei/thunderwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,3 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+                                                                                                   联系方式:1322715377
+                                                                                                   QQ:932956520
+                                                                                                   微信：13224715377
+                                                                                                   邮箱：yinxunwei001@163.com
