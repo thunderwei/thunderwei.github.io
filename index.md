@@ -1,7 +1,5 @@
 #这是尹训炜的地盘hhhhh
 ## 欢迎来到thunderwei之家
-
-thunderwei博客
 You can use the [editor on GitHub](https://github.com/thunderwei/thunderwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
