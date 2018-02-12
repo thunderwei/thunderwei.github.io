@@ -2,37 +2,30 @@
 ## 欢迎来到thunderwei之家
 You can use the [editor on GitHub](https://github.com/thunderwei/thunderwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 尹训炜
 
-### Markdown
+我是大好人，亲爱的大好人。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![2345_image_file_copy_2]($res/2345_image_file_copy_2.jpg) 
 
-Syntax highlighted code block
+找不到坚强的理由。
 
-# Header 1 
-## Header 2
-### Header 3
+Duis sollicitudin in magna vitae convallis. Vestibulum nec fermentum justo, sed vestibulum tortor. Sed hendrerit ligula in imperdiet tempus. Duis a lorem diam. Duis hendrerit ligula lacus, vitae aliquet orci imperdiet eleifend. Mauris accumsan, quam molestie ultrices placerat, sapien turpis mattis purus, eget euismod arcu est nec sapien.
 
-- Bulleted
-- List
+Integer tincidunt nunc quis tortor tristique, ut egestas metus volutpat. In sit amet dolor leo. dictum in odio eu vulp
+utate. Nullam a ornare elit, a sollicitudin augue.
 
-1. Numbered
-2. List
+Donec neque velit, gravida eu tempor nec, sagittis ut lectus. Quisque laoreet dignissim facilisis. Cras vel rutrum odio, in mollis elit. _Maecenas_ malesuada est sit amet eleifend vulputate. Quisque in ultrices erat. Aenean mollis nibh et ligula _accumsan_ semper vitae sed nisi. Ut pulvinar aliquam nulla, id cursus augue tincidunt sed.
 
-**Bold** and _Italic_ and `Code` text
+## Arcu est nec sapien
 
-[Link](url) and ![Image](src)
+Maecenas id feugiat urna, sed volutpat purus. Vivamus porttitor consequat vulputate.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![scelerisque eu purus ac, semper varius lacus.]($appres/images/toy.jpg)
 
-### Jekyll Themes
+Nullam at erat faucibus mi interdum sodales. Quisque venenatis sagittis justo a volutpat. Nam libero enim, auctor iaculis velit tincidunt, blandit blandit enim. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thunderwei/thunderwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fusce et metus libero. Phasellus turpis odio, scelerisque eu purus ac, semper varius lacus. Praesent ullamcorper blandit sem, eu feugiat leo. Nulla hendrerit convallis purus et elementum. Suspendisse non magna vel justo tincidunt finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.
 
                                                                                                    联系方式:1322715377
                                                                                                    QQ:932956520
